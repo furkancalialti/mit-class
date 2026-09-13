@@ -1,4 +1,4 @@
-# MIT OpenCourseWare --- Study Notes
+# MIT OpenCourseWare - Study Notes
 
 A personal, structured repository documenting my self-study journey through MIT OpenCourseWare (MIT OCW) courses. All lecture notes, mathematical derivations, and problem sets are typeset in LaTeX and compiled to PDF.
 
