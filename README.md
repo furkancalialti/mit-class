@@ -5,9 +5,9 @@ A personal, structured repository documenting my self-study journey through MIT 
 ## Enrolled Courses
 
 | Course Code | Course Title | Status | Compiled Notes |
-| :--- | :--- | :--- | :--- |
-| **MIT 18.01** | Single Variable Calculus 
-| **MIT 8.01** | Classical Mechanics
+| :--- | :--- | :--- |
+| **MIT 18.01** | Single Variable Calculus | [BOOK](./main.tex/)
+| **MIT 8.01** | Classical Mechanics | [BOOK](./8.01SC-Classical-Mechanics/)
 
 ## Repository Structure
 
