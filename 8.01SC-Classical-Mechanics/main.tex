@@ -1,0 +1,31 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath, amssymb}
+\usepackage{graphicx}
+\usepackage{tcolorbox}
+\usepackage{hyperref}
+\usepackage{mathpazo}
+
+\tcbuselibrary{skins,breakable}
+\newtcolorbox{physbox}[1]{colback=green!5!white,colframe=green!60!black,title=#1,fonttitle=\bfseries,breakable}
+
+\title{MIT 8.01SC: Classical Mechanics \\Study Notes}
+\author{Furkan Calialti}
+\date{}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+
+\input{Review.tex}
+
+% Resim ekleme sablonu (figures klasorune resim attiginda yorumu kaldir):
+% \begin{figure}[h]
+%     \centering
+%     \includegraphics[width=0.6\textwidth]{figures/sample-fbd.png}
+%     \caption{Free Body Diagram}
+% \end{figure}
+
+\end{document}

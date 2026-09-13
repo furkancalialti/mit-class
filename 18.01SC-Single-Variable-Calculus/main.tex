@@ -1,0 +1,29 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{tcolorbox}
+\usepackage{hyperref}
+\usepackage{mathpazo}
+
+\tcbuselibrary{skins,breakable}
+\newtcolorbox{conceptbox}[1]{colback=blue!5!white,colframe=blue!75!black,title=#1,fonttitle=\bfseries,breakable}
+\newtcolorbox{pitfallbox}[1]{colback=red!5!white,colframe=red!75!black,title=#1,fonttitle=\bfseries,breakable}
+
+\title{MIT 18.01SC: Single Variable Calculus \\Study Notes}
+\author{Furkan Calialti}
+\date{}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+
+
+\input{differantiation.tex}
+\input{applications-of-differantion.tex}
+\input{the-definite-integrals-and-its-applications.tex}
+\input{techniques-of-integration.tex}
+\input{exploring-the-infinite.tex}
+
+\end{document}
