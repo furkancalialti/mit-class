@@ -19,7 +19,7 @@ A personal, structured repository documenting my self-study journey through MIT 
 │   └── physics.tex
 ├── .gitignore              # Ignores auxiliary LaTeX compilation files
 └── README.md
-
+```
 #Local Setup & Tooling
 Notes in this repository are written and maintained using:
 
