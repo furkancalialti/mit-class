@@ -13,10 +13,10 @@ A personal, structured repository documenting my self-study journey through MIT 
 
 ```text
 .
-├── 18.01-calculus/         # Single Variable Calculus notes and figures
-│   └── calculus.tex
-├── 8.01-physics/           # Classical Mechanics notes and diagrams
-│   └── physics.tex
+├── 18.01SC-Single-Variable-Calculus/         # Single Variable Calculus notes and figures
+│   └── main.tex
+├── 8.01-Classical-Mechanics/           # Classical Mechanics notes and diagrams
+│   └── main.tex
 ├── .gitignore              # Ignores auxiliary LaTeX compilation files
 └── README.md
 ```
